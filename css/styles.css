@@ -1,0 +1,42 @@
+.push{
+  height: 200px;
+}
+
+.side{
+  height: 250px;
+}
+
+.faceImg{
+  height: 250px;
+  background-color: dodgerblue;
+  border-bottom: 2px solid grey;
+}
+
+.myName{
+  height: 100px;
+}
+
+.myBusi{
+  height: 60px;
+}
+
+.introBox{
+  height: 250px;
+  border-bottom: 2px solid grey;
+}
+ .aboutBox{
+   height: 250px;
+ }
+
+ .aboutText{
+   margin-top: 50px;
+   font-size: 20px;
+ }
+ .artBox{
+   height: 300px;
+ }
+
+ .featArt{
+   height: 300px;
+   background-color: beige;
+ }
