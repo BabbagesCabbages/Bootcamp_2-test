@@ -1,5 +1,5 @@
 .push{
-  height: 200px;
+  height: 150px;
 }
 
 .side{
@@ -8,7 +8,7 @@
 
 .faceImg{
   height: 250px;
-  background-color: dodgerblue;
+
   border-bottom: 2px solid grey;
 }
 
@@ -38,5 +38,9 @@
 
  .featArt{
    height: 300px;
-   background-color: beige;
  }
+
+ .height{
+   height: 200px;
+ }
+/*** Add Height class, DRY up this shit***/
