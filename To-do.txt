@@ -1,0 +1,10 @@
+1: clean up unused CDNs and leftover JS BS
+2. Add slick locally
+3. set up article site on netlify -> link slick images to
+4. design space for other content.  (Categories -> dropdown with links)
+5. Add Game projects
+6. Scour your hard drives for python projects
+7. add social media links
+8. Look for Fonts
+9. PHOTOSHOP IMAGES to use
+10.
